@@ -17,7 +17,7 @@ const rappers ={
         'age' : 0,
         'birthName' : 'unknown',
         'birthLocation' : 'unknown'
-    }
+    },
     'lil wayne' : {
         'age' : 40,
         'birthName' : 'Dwayne Michael Carter Jr.',
