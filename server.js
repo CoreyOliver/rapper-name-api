@@ -18,6 +18,11 @@ const rappers ={
         'birthName' : 'unknown',
         'birthLocation' : 'unknown'
     }
+    'lil wayne' : {
+        'age' : 40,
+        'birthName' : 'Dwayne Michael Carter Jr.',
+        'birthLocation' : 'New Orleans, Louisiana, U.S.'
+    }
 }
 
 app.get('/' , (request, response) =>{
